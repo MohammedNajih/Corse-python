@@ -1,6 +1,6 @@
 :______:___________:_____:______:________:
 # Corse-python
-# The core all program language python
+# The corse all program language python
 # coder Mohammed Almuswi
 # From in Iraq City
 :______:___________:_____:______:________:
